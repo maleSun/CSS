@@ -1,0 +1,2 @@
+@charset "UTF-8";
+.wrapper{width:85%;margin:1em auto}nav{position:relative;width:100%;margin:0.5em auto}ul{display:flex;width:100%}ul li{flex:1;margin:0 0.3em}ul li a{display:block;height:2em;background-color:#48C72C}.box{width:auto;margin:0 0.3em}.box div{margin-top:0.3em;height:20em;background-color:#f40}.box1{width:100%}.box2{float:left;width:32%}.box .box3{width:auto;margin-left:33%}.box::after{content:'';display:block;clear:both}
